@@ -1,0 +1,220 @@
+[
+    {
+        "name": {
+            "common": "Paraguay",
+            "official": "Republic of Paraguay",
+            "nativeName": {
+                "grn": {
+                    "official": "Tetã Paraguái",
+                    "common": "Paraguái"
+                },
+                "spa": {
+                    "official": "República de Paraguay",
+                    "common": "Paraguay"
+                }
+            }
+        },
+        "tld": [
+            ".py"
+        ],
+        "cca2": "PY",
+        "ccn3": "600",
+        "cca3": "PRY",
+        "cioc": "PAR",
+        "independent": true,
+        "status": "officially-assigned",
+        "unMember": true,
+        "currencies": {
+            "PYG": {
+                "name": "Paraguayan guaraní",
+                "symbol": "₲"
+            }
+        },
+        "idd": {
+            "root": "+5",
+            "suffixes": [
+                "95"
+            ]
+        },
+        "capital": [
+            "Asunción"
+        ],
+        "altSpellings": [
+            "PY",
+            "Republic of Paraguay",
+            "República del Paraguay",
+            "Tetã Paraguái"
+        ],
+        "region": "Americas",
+        "subregion": "South America",
+        "languages": {
+            "grn": "Guaraní",
+            "spa": "Spanish"
+        },
+        "translations": {
+            "ara": {
+                "official": "جمهورية باراغواي",
+                "common": "باراغواي"
+            },
+            "bre": {
+                "official": "Republik Paraguay",
+                "common": "Paraguay"
+            },
+            "ces": {
+                "official": "Paraguayská republika",
+                "common": "Paraguay"
+            },
+            "cym": {
+                "official": "Republic of Paraguay",
+                "common": "Paraguay"
+            },
+            "deu": {
+                "official": "Republik Paraguay",
+                "common": "Paraguay"
+            },
+            "est": {
+                "official": "Paraguay Vabariik",
+                "common": "Paraguay"
+            },
+            "fin": {
+                "official": "Paraguayn tasavalta",
+                "common": "Paraguay"
+            },
+            "fra": {
+                "official": "République du Paraguay",
+                "common": "Paraguay"
+            },
+            "hrv": {
+                "official": "Republika Paragvaj",
+                "common": "Paragvaj"
+            },
+            "hun": {
+                "official": "Paraguayi Köztársaság",
+                "common": "Paraguay"
+            },
+            "ita": {
+                "official": "Repubblica del Paraguay",
+                "common": "Paraguay"
+            },
+            "jpn": {
+                "official": "パラグアイ共和国",
+                "common": "パラグアイ"
+            },
+            "kor": {
+                "official": "파라과이 공화국",
+                "common": "파라과이"
+            },
+            "nld": {
+                "official": "Republiek Paraguay",
+                "common": "Paraguay"
+            },
+            "per": {
+                "official": "جمهوری پاراگوئه",
+                "common": "پاراگوئه"
+            },
+            "pol": {
+                "official": "Republika Paragwaju",
+                "common": "Paragwaj"
+            },
+            "por": {
+                "official": "República do Paraguai",
+                "common": "Paraguai"
+            },
+            "rus": {
+                "official": "Республика Парагвай",
+                "common": "Парагвай"
+            },
+            "slk": {
+                "official": "Paraguajská republika",
+                "common": "Paraguaj"
+            },
+            "spa": {
+                "official": "República de Paraguay",
+                "common": "Paraguay"
+            },
+            "srp": {
+                "official": "Република Парагвај",
+                "common": "Парагвај"
+            },
+            "swe": {
+                "official": "Republiken Paraguay",
+                "common": "Paraguay"
+            },
+            "tur": {
+                "official": "Paraguay Cumhuriyeti",
+                "common": "Paraguay"
+            },
+            "urd": {
+                "official": "جمہوریہ پیراگوئے",
+                "common": "پیراگوئے"
+            },
+            "zho": {
+                "official": "巴拉圭共和国",
+                "common": "巴拉圭"
+            }
+        },
+        "latlng": [
+            -23,
+            -58
+        ],
+        "landlocked": true,
+        "borders": [
+            "ARG",
+            "BOL",
+            "BRA"
+        ],
+        "area": 406752,
+        "demonyms": {
+            "eng": {
+                "f": "Paraguayan",
+                "m": "Paraguayan"
+            },
+            "fra": {
+                "f": "Paraguayenne",
+                "m": "Paraguayen"
+            }
+        },
+        "flag": "🇵🇾",
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/JtnqG73WJn1Gx6mz6",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/287077"
+        },
+        "population": 7132530,
+        "gini": {
+            "2019": 45.7
+        },
+        "fifa": "PAR",
+        "car": {
+            "signs": [
+                "PY"
+            ],
+            "side": "right"
+        },
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "continents": [
+            "South America"
+        ],
+        "flags": {
+            "png": "https://flagcdn.com/w320/py.png",
+            "svg": "https://flagcdn.com/py.svg",
+            "alt": "The flag of Paraguay features three equal horizontal bands of red, white and blue, with an emblem centered in the white band. On the obverse side of the flag depicted, this emblem is the national coat of arms."
+        },
+        "coatOfArms": {
+            "png": "https://mainfacts.com/media/images/coats_of_arms/py.png",
+            "svg": "https://mainfacts.com/media/images/coats_of_arms/py.svg"
+        },
+        "startOfWeek": "monday",
+        "capitalInfo": {
+            "latlng": [
+                -25.28,
+                -57.57
+            ]
+        },
+        "postalCode": {
+            "format": "####",
+            "regex": "^(\\d{4})$"
+        }
+    }
+]
